@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning the MERN stack<br>🔭 I’m currently working on my Portfolio Project VisualVista<br>💬 Ask me about Node. js, JavaScript, Java.<br>⚡ I love Chess and Coffee</p>
+<p align="left">🌱 I’m currently learning the MERN stack<br>🔭 I’m currently working on my Portfolio Project VisualVista <br>💬 Ask me about Node. js, JavaScript, Java.<br>⚡ I love Chess and Coffee</p>
 
 ###
 
@@ -19,11 +19,13 @@
 ###
 
 <div align="left">
+  <a href="https://www.behance.net/amaan8429" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
-  <a href="mohdamaan8429@gmail.com" target="_blank">
+    </a>
+  <a href="mailto:mohdamaan8429@gmail.com?subject=feedback" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/m_amaan_8429/" target="_blank">
+  <a href="https://www.instagram.com/amaan.8429/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohdamaan8429/" target="_blank">
